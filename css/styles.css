@@ -1,4 +1,9 @@
+body {
+  background: #f5f6fa;
+}
+
 nav {
+  background: white;
   margin-bottom: 40px;
 }
 
